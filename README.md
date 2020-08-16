@@ -43,11 +43,11 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
  <!--<a href="https://www.instagram.com/cyber_freak_21/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>--> 
- <a href="https://medium.com/@dartilesm" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp;
- </a>
   <a href="https://twitter.com/dartilesm" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
+ </a>
+ <a href="https://medium.com/@dartilesm" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp;
  </a>
   <br/>
   <br/>
