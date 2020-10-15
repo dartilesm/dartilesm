@@ -3,13 +3,8 @@
 <br />
 <br />
 
-Hi, I'm Diego Artiles, a Full Stack Developer 🚀 from Venezuela, but I live in Argentina. I'm not english spoken 🙁, but i get it and my dream is speak it very well. 🥺
+Hi, I'm Diego Artiles, a Full Stack Developer 🚀 from Venezuela, but I live in Argentina.
 Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
-
-<div align="right">
-  <h6 align="right"> <a href='https://www.freepik.es/vectores/negocios'>Vector from freepik</a> </h6>
-  <img align="right" alt="programming" src="https://github.com/dartilesm/dartilesm/blob/master/assets/programming-person.png" />
-</div>
 
 **Talking about Personal Stuffs:**
 
