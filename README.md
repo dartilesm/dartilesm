@@ -9,7 +9,7 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Satander Tecnología](https://www.santander.com.ar/) and once a while at [Workana](https://www.workana.com/);
-- 🌱 I’m currently learning ReactJS;
+- 🌱 I’m currently learning ReactJS and working on my blog [dartiles.dev](https://dartiles.dev/);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started programming self-taught at 17 years old
 - 📫 How to reach me: contact@dartiles.dev;
