@@ -12,7 +12,7 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 - 🌱 I’m currently learning ReactJS and working on my blog [dartiles.dev](https://dartiles.dev/);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started programming self-taught at 17 years old
-- 📫 How to reach me: contact@dartiles.dev;
+- 📫 How to reach me: diego@dartiles.dev;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
 **Languages and Tools:**  
