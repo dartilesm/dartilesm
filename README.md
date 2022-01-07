@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Diego Artiles, a Full Stack Developer 🚀 from Venezuela, but I live in Argentina.
+Hi, I'm Diego Artiles, a Frontend Developer 🚀 from Venezuela, but I live in Argentina.
 Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 
 **Talking about Personal Stuffs:**
