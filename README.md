@@ -3,6 +3,13 @@
 <br />
 <br />
 
+<div align="center" style="display: flex; flex-direction: row;">
+ <img height="200" src="https://github-readme-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=radical" />
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartilesm&theme=radical&layout=compact" />
+</div>
+
+<br><br>
+
 Hi, I'm Diego Artiles, a Frontend Developer 🚀 from Venezuela, but I live in Argentina.
 Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 
@@ -13,19 +20,11 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started programming self-taught at 17 years old
 - 📫 How to reach me: diego@dartiles.dev;
-<!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://labarta.es/wp-content/uploads/2019/11/vscode-450x450.png"></code>
+<br>
+<div align="center">
+  <img src="https://github.com/dartilesm/dartilesm/blob/master/devcard.svg" width="300" alt="Diego Artiles Dev Card"/>
+</div>
 
 
 <div align="center">
@@ -38,7 +37,7 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
   <a href="https://twitter.com/dartilesm" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
  </a>
- <a href="https://dartiles.dev" target="_blank">
+ <a href="https://dartiles.me" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://dartiles.dev/logo.png" /> &nbsp;
  </a>
   <br/>
