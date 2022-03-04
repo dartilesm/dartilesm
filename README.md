@@ -21,11 +21,6 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 - ⚡️ Fun-Fact: I started programming self-taught at 17 years old
 - 📫 How to reach me: diego@dartiles.dev;
 
-<br>
-<div align="center">
-  <img src="https://github.com/dartilesm/dartilesm/blob/master/devcard.svg" width="300" alt="Diego Artiles Dev Card"/>
-</div>
-
 
 <div align="center">
   <h3 align="center">Connect with me <img align="center" src="https://github.com/dartilesm/dartilesm/blob/master/assets/Handshake.gif" height="33px" /></h3> 
