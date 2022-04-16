@@ -32,8 +32,8 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
   <a href="https://twitter.com/dartilesm" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
  </a>
- <a href="https://dartiles.me" target="_blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://dartiles.dev/logo.png" /> &nbsp;
+ <a href="https://dartiles.link" target="_blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://dartiles.dev/logo3.png" /> &nbsp;
  </a>
   <br/>
   <br/>
