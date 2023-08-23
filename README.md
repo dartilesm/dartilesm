@@ -1,9 +1,21 @@
 <h1 align="center"><img src="https://github.com/dartilesm/dartilesm/blob/master/assets/Hi.gif" width="29px"> Hi there! Welcome to my profile</h1>
 
 <br />
-<br />
 
-[![dartilesm's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartilesm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: flex; flex-direction: row;">
+  <picture>
+    <source
+      srcset="https://dartilesm-git-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://dartilesm-git-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://dartilesm-git-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=github_dark" />
+  </picture>
+</div>
+
 
 <br><br>
 Hi, I'm Diego Artiles, a Frontend Developer 🚀 from Venezuela, but I live in Argentina.
