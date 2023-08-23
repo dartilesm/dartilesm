@@ -3,13 +3,9 @@
 <br />
 <br />
 
-<div align="center" style="display: flex; flex-direction: row;">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=dartilesm&show_icons=true&theme=radical" />
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dartilesm&theme=radical&layout=compact" />
-</div>
+[![dartilesm's GitHub stats](https://github-readme-stats.vercel.app/api?username=dartilesm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-
 Hi, I'm Diego Artiles, a Frontend Developer 🚀 from Venezuela, but I live in Argentina.
 Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 
