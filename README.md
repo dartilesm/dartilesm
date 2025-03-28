@@ -18,12 +18,12 @@
 
 
 <br><br>
-Hi, I'm Diego Artiles, a Frontend Developer 🚀 from Venezuela, but I live in Argentina.
-Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
+Hi, I'm Diego Artiles, a Frontend Developer 🚀 originally from Venezuela, but living in Argentina.
+Besides programming, I enjoy traveling ✈ and getting to know new places ⛱🌄.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [DEPT®](https://www.deptagency.com/) and once a while at [Workana](https://www.workana.com/);
+- 👨🏽‍💻 I’m currently working on [DEPT®](https://www.deptagency.com/) and my project [Makefy](https://makefy.app/);
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started programming self-taught at 17 years old
 - 📫 How to reach me: diego@dartiles.dev;
@@ -35,10 +35,10 @@ Beside's programming, I enjoy traveling ✈ and know new places ⛱🌄.
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/dartiles/" target="_blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /> &nbsp;
  </a>
   <a href="https://twitter.com/dartilesm" target="_blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" /> &nbsp;
  </a>
  <a href="https://dartiles.link" target="_blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://dartiles.dev/logo3.png" /> &nbsp;
