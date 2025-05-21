@@ -25,7 +25,6 @@ Besides programming, I enjoy traveling ✈ and getting to know new places ⛱�
 
 - 👨🏽‍💻 I’m currently working on [DEPT®](https://www.deptagency.com/) and my project [Makefy](https://makefy.app/);
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started programming self-taught at 17 years old
 - 📫 How to reach me: diego@dartiles.dev;
 - ➕ Learn more about me in [dartiles.link](https://dartiles.link)
 
